@@ -1,6 +1,6 @@
 # Summary of string+ Project
 
-In the `s21_string+` project, the aim was to create a custom implementation of the `string.h` library in the C programming language, enriching it with additional features.
+In the `string.h` project, the aim was to create a custom implementation of the `string.h` library in the C programming language, enriching it with additional features.
 
 ## Installation:
 ````
